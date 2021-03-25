@@ -154,7 +154,7 @@ namespace Labb5Test
             {
                 ListBox.SetSelected(i, true);
             }
-        }//TODO remove this if needed
+        }
 
         private void ClearButton_Click(object sender, EventArgs e)
         {
